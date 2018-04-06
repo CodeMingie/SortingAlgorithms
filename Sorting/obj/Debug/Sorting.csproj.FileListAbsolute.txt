@@ -1,0 +1,5 @@
+D:\Dev\Sorting\Sorting\bin\Debug\Sorting.dll
+D:\Dev\Sorting\Sorting\bin\Debug\Sorting.pdb
+D:\Dev\Sorting\Sorting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dev\Sorting\Sorting\obj\Debug\Sorting.dll
+D:\Dev\Sorting\Sorting\obj\Debug\Sorting.pdb

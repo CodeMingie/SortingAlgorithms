@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Collections;
 
 namespace Sorting
 {
@@ -195,6 +196,17 @@ namespace Sorting
         {
             for (int i = 0; i < arr1.Length; i++)
                 Assert.AreEqual(arr1[i], arr2[i]);
+        }
+
+        [TestMethod]
+        public void TestHashTable()
+        {
+            Hashtable hashtable = new Hashtable();
+            hashtable.Add("User1", "CacheItem1");
+            hashtable.Add("User2", "CacheItem2");
+            hashtable.Add("User3", "CacheItem3");
+
+            string item1 = (string) hashtable["User1"];
         }
     }
 }
